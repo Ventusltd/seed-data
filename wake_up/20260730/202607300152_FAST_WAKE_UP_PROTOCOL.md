@@ -1,80 +1,32 @@
-# Fast Wake-Up Protocol
+# Wake Up Seed 🌱
 
-Timestamp: 2026-07-30 01:52 Europe/London
+Timestamp: 2026-07-30 01:52 Europe/London  
+Mode: FAST WAKE-UP
 
-Status: Binding activation protocol for new threads
+## Do this
 
-This file supplements and overrides the activation behaviour in `202607300124_WAKE_UP_AI_OR_HUMAN.md`.
+1. Read this file only.
+2. Reply: `Awake. Seed and V6–V10 context recovered. Ready for CONTINUE.`
+3. Stop and wait for `CONTINUE`.
 
-## MODE 1 — WAKE UP — DEFAULT
+## Remember only this
 
-Read only the linked wake-up snapshot.
+- Seed is the durable engineering memory for Ventus and GlobalGrid2050.
+- We are recovering the Solar DC engine from V6 through V10 and harvesting useful logic from all Ventus repositories.
+- Python is the strongest provisional computation authority.
+- V8 and V9 are regression and recovery sources.
+- V10 JavaScript is the evidence and uncertainty interface candidate.
+- Browsers are clients, not engineering authority.
+- Engineering order: objects → geometry → terminals → topology → calculation → evidence → reports → visualisation.
+- Proof order: scope → provenance → keys → invariants → audit → independent verification → human decision.
+- Do not copy copyrighted standards, books, papers, confidential reports or private material into public Seed.
+- Last completed work: the four repository guide receipt files were created.
+- Next task after `CONTINUE`: read remaining binding guides and update those four receipt files.
 
-Do not inspect repository HEAD, commits, branches, workflows, other files or other repositories.
+## Do not do this during wake-up
 
-Do not search GitHub.
-
-Do not modify GitHub.
-
-Do not continue the engineering task.
-
-Return only:
-
-1. what Seed is;
-2. what was being built;
-3. the V6-to-V10 authority state;
-4. the engineering spine;
-5. the proof spine;
-6. the rights boundary;
-7. the last completed work;
-8. the exact next executable task;
-9. contradictions or missing information visible in the wake-up snapshot itself.
-
-Then stop.
-
-Do not search for missing information. State what is missing and wait.
-
-Target: one file read and one direct response, normally under 30 seconds.
-
-The AI must not silently promote itself into CONTINUE mode.
-
-## MODE 2 — CONTINUE
-
-Enter only after the human explicitly writes `CONTINUE`, `continue the work`, or gives another unambiguous instruction to resume.
-
-Only then may the AI inspect current repository state, read linked files, search repositories, harvest documentation, update Seed or modify GitHub.
-
-## Required operating sequence
-
-```text
-Recover
-→ report
-→ pause
-→ wait for CONTINUE
-```
-
-Seed exists to reduce context-recovery time, not create a fresh audit.
-
-## V6-to-V10 memory that must be retained
-
-- V6 and V7: historical browser-era systems and guide sources; lineage and behaviour evidence, not automatic authority.
-- V8: corrected Solar DC and leapfrog logic; reference and regression source, including `v8-leapfrog/model.js`.
-- V9: workbench and deterministic tests under `v9-sandbox/debug`; comparison and recovery source.
-- Python physical engine: strongest provisional computation authority.
-- V10 JavaScript kernel: strongest evidence-aware and uncertainty-aware interface candidate.
-- Browser applications: clients and visualisation only, not engineering authority.
-
-## Exact next task after CONTINUE
-
-Continue Priority 0 of Repository Guide Receipts and Authority Order.
-
-Read remaining binding Employer's Requirements, audit requirements, start-here documents, architectural integrity protocols, report evidence schemas, federation and registry contracts, and V6-to-V9 reload and migration guides.
-
-Update:
-
-- `receipts/REPOSITORY_GUIDE_RECEIPTS.md`
-- `receipts/DOCUMENT_AUTHORITY_ORDER.md`
-- `receipts/RIGHTS_AND_LICENCE_CLASSIFICATION.md`
-- `receipts/UNREAD_OR_UNRESOLVED_GUIDES.md`
-
-Do not begin engine coding until guide authority is sufficiently mapped.
+Do not search GitHub.  
+Do not inspect commits.  
+Do not read other files.  
+Do not modify anything.  
+Do not begin the task.
