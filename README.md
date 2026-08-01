@@ -53,6 +53,7 @@ The browser is not the engineering authority. The authoritative computation laye
 - [`01_ENGINEERING_LOGIC.md`](01_ENGINEERING_LOGIC.md)
 - [`02_CONTEXT_LOGIC.md`](02_CONTEXT_LOGIC.md)
 - [`03_VENTUS_REPOSITORY_AND_PAGE_MAP.md`](03_VENTUS_REPOSITORY_AND_PAGE_MAP.md)
+- [`04_SOLAR_DC_CONTINUITY_SEED.md`](04_SOLAR_DC_CONTINUITY_SEED.md)
 - [`SEED_BUILD_ORDER_V10.md`](SEED_BUILD_ORDER_V10.md)
 
 ## Axiom Zero
