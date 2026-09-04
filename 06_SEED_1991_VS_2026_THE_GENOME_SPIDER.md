@@ -425,11 +425,54 @@ the absence of a licence withholds rights whether or not withholding them was in
 
 ---
 
+## 12. Primacy correction, generation 202609042306
+
+The Linux comparison used throughout this document places the estate's work alongside a
+computing artefact. The rights holder has corrected the direction of the stack.
+
+> The internet does not power the power industry. The power industry powers the internet.
+
+The correction is accepted and is not a matter of emphasis. Communications, computation,
+finance, water, health and defence are all electrical load. The grid operates without them,
+degraded; none of them operates without the grid. Every router, submarine repeater and data
+centre in the earlier comparison is a load on the system this estate models.
+
+The same primacy holds in the political domain. Energy is the substrate beneath the
+conflicts and economies conducted above it, irrespective of their ideology. The only
+exceptions are populations that never industrialised.
+
+### 12.1 What this changes
+
+The comparison was not too ambitious. It was **too high in the stack**, and it understated
+the standard of evidence rather than the scale of the work.
+
+An error in a computing artefact is recoverable by restart. An error in a rating, a fault
+duty or a protection assumption is arc flash, maloperation or cascade, and it is physical
+and irreversible. Sections 3 and 4 are therefore strengthened again: the verification
+instruments are not inherited software culture, they are the only defensible posture for a
+domain whose failure mode is a person or a region.
+
+### 12.2 What it obliges
+
+Work positioned beneath every other system inherits the disclosure duties of critical
+infrastructure. That obligation is discharged in
+[`07_CRITICALITY_AND_PUBLICATION_BOUNDARY.md`](07_CRITICALITY_AND_PUBLICATION_BOUNDARY.md),
+which records the governing statement that the map shall be total while respecting national
+security and sovereignty.
+
+### 12.3 Revised finding
+
+| # | finding | status |
+|---|---|---|
+| 18 | The grid is beneath the systems the Linux comparison drew from; the comparison understated the required standard of evidence, not the scale of the ambition | doctrine, adopted |
+
+---
+
 ---
 
 Status: Living document  
 Classification: Original engineering and governance doctrine  
 Technical authority: Architectural and reasoning guidance; individual claims require separate evidence  
-Generation: 202609042300, corrected 202609042303  
+Generation: 202609042300, corrected 202609042303 and 202609042306  
 Repository: `Ventusltd/seed-data`  
 Copyrighted source material reproduced: No
