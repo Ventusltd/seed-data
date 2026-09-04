@@ -55,7 +55,18 @@ The browser is not the engineering authority. The authoritative computation laye
 - [`03_VENTUS_REPOSITORY_AND_PAGE_MAP.md`](03_VENTUS_REPOSITORY_AND_PAGE_MAP.md)
 - [`04_SOLAR_DC_CONTINUITY_SEED.md`](04_SOLAR_DC_CONTINUITY_SEED.md)
 - [`05_PRODUCT_OWNER_MANUAL_RELOAD.md`](05_PRODUCT_OWNER_MANUAL_RELOAD.md)
+- [`06_SEED_1991_VS_2026_THE_GENOME_SPIDER.md`](06_SEED_1991_VS_2026_THE_GENOME_SPIDER.md)
 - [`SEED_BUILD_ORDER_V10.md`](SEED_BUILD_ORDER_V10.md)
+
+## Receipts
+
+Measurement and classification receipts. A receipt records what was measured, when, and by what method. It issues no verdict.
+
+- [`receipts/DOCUMENT_AUTHORITY_ORDER.md`](receipts/DOCUMENT_AUTHORITY_ORDER.md)
+- [`receipts/RIGHTS_AND_LICENCE_CLASSIFICATION.md`](receipts/RIGHTS_AND_LICENCE_CLASSIFICATION.md)
+- [`receipts/REPOSITORY_GUIDE_RECEIPTS.md`](receipts/REPOSITORY_GUIDE_RECEIPTS.md)
+- [`receipts/UNREAD_OR_UNRESOLVED_GUIDES.md`](receipts/UNREAD_OR_UNRESOLVED_GUIDES.md)
+- [`receipts/ESTATE_LICENCE_AND_VISIBILITY_RECEIPT.md`](receipts/ESTATE_LICENCE_AND_VISIBILITY_RECEIPT.md)
 
 ## Axiom Zero
 
