@@ -329,11 +329,107 @@ it is still open.
 
 > Seed shall never knowingly forget.
 
+## 11. Author's correction, generation 202609042303
+
+Recorded under Axiom Zero. The sections it qualifies are retained unaltered so that the
+superseded framing remains inspectable.
+
+### 11.1 What was corrected
+
+Sections 5 and 8 framed the programme's objective as **adoption**, and reasoned about the
+conditions under which a protocol spreads. The rights holder has corrected this. The
+objective is not adoption, and not a count of adopters.
+
+> The objective is to map the entire world grid in a deep electromagnetic sense: cables,
+> connectivity and the physical behaviour of the network, and not a shallow directory of
+> plant locations.
+
+The governing discipline is stated as **electrical engineering**, not software convention.
+The measure of success is stated as real power flows, load flows, busbar ratings and
+studies that a chartered engineer of long standing would perform and stand behind. Code
+written for its own sake does not qualify.
+
+The stated purpose is the democratisation of electrical engineering, by analogy with the
+democratisation of internet infrastructure rather than with the adoption curve of a kernel.
+
+### 11.2 What the correction changes
+
+**Section 5 is demoted from objective to constraint.** Licence, specification and trust
+remain necessary, but they are no longer justified by adoption. They are justified because
+a study must be usable by the engineer who signs it.
+
+The revised justification is stronger than the one it replaces. A chartered engineer acting
+under professional obligation cannot lawfully rely on material whose licence position is
+unresolved, and no employer's professional indemnity arrangement will permit it. The
+licence therefore ceases to be a growth instrument and becomes an **admissibility
+condition**: without it the work cannot enter a real study at all, irrespective of how many
+parties would otherwise have used it.
+
+**Section 8.1 is corrected in its reasoning, not in its conclusion.** The conformance core
+must still be small, but not so that strangers may adopt it. It must be small so that a
+study is **reproducible**: two engineers running the same model against the same data must
+obtain the same answer, and must be able to show why.
+
+**Section 2.2 is corrected in emphasis.** The corpus is not a target and its size is not a
+measure of the work. The map is the objective, and its required property is depth rather
+than volume.
+
+### 11.3 What the correction leaves standing
+
+Sections 3, 4, 6 and 7 are unaffected, and section 3 is strengthened by it.
+
+If the objective is a map on which real load flows are computed and signed, then the
+verification instruments are not merely load-bearing, they are the entire basis of the
+result's admissibility. A commercial analysis package derives its authority from
+institutional validation and from decades of use. An open body of work cannot borrow that
+authority and must construct its own, which it can do only from traceable, reproducible
+evidence.
+
+> The estate's receipts are not governance overhead attached to an engineering project.
+> Under this objective they are the mechanism by which an open study becomes signable.
+
+### 11.4 The gate that is actually being opened
+
+Power system analysis is not gated by absence of knowledge. It is gated by the cost of the
+tools in which that knowledge is operational, and by the fact that the evidence chain
+behind a commercial result is not open to inspection.
+
+The democratisation analogy therefore holds more precisely than the adoption analogy did.
+What was democratised in the earlier case was not popularity; it was the ability to operate
+infrastructure without purchasing permission to do so.
+
+The missing component in open power system engineering is not a solver. Competent open
+solvers exist. The missing component is a **verified chain from data to model to study that
+a chartered engineer can sign**, and that is the component this estate has been building
+without naming it as such.
+
+### 11.5 On credit
+
+The rights holder has stated that no credit is sought.
+
+This does not remove the case for attribution, because in engineering attribution is not
+credit. It is **traceability of authority**: the record of where a figure came from, under
+what method, and at what revision, without which a reviewing engineer cannot assess
+reliance. Attribution terms therefore serve the study, not the author, and remain
+appropriate irrespective of the author's indifference to recognition.
+
+A rights holder who seeks no credit may still be obliged to grant permission clearly, since
+the absence of a licence withholds rights whether or not withholding them was intended.
+
+### 11.6 Revised finding
+
+| # | finding | status |
+|---|---|---|
+| 10 | The objective is a deep electromagnetic map of the world grid, governed by electrical engineering discipline and measured by studies a chartered engineer would sign. Adoption is a consequence, not a target. | doctrine, adopted |
+| 11 | The licence is an admissibility condition for professional use, not a growth instrument | open, decision required |
+
+---
+
 ---
 
 Status: Living document  
 Classification: Original engineering and governance doctrine  
 Technical authority: Architectural and reasoning guidance; individual claims require separate evidence  
-Generation: 202609042300  
+Generation: 202609042300, corrected 202609042303  
 Repository: `Ventusltd/seed-data`  
 Copyrighted source material reproduced: No
