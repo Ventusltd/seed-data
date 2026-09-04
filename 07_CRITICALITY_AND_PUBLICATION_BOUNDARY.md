@@ -138,7 +138,107 @@ A study whose numbers are restricted must still be reproducible in principle by 
 holds the underlying data lawfully. Democratisation of engineering is a claim about method,
 and method is never withheld.
 
-## 7. Recording conflicts rather than resolving them away
+## 7. Material that is never held
+
+Recorded from the rights holder at generation `202609042311`:
+
+> We do not expose national security. The SLDs behind real mechanics and electrics are
+> guarded in client datarooms, not here.
+
+This is a stronger rule than any publication class, and it is stated separately because
+class P4 is insufficient for it. P4 governs material the estate holds and does not publish.
+The rule here governs material the estate **does not hold at all**.
+
+### 7.1 The exclusion
+
+The following do not enter GlobalGrid2050 in any form, at any depth, published or held:
+
+- client single line diagrams and their revisions;
+- protection settings, relay configurations and coordination studies for identified installations;
+- as-built cable schedules, routes, joint positions and terminations for identified sites;
+- earthing, bonding and switching arrangements for identified installations;
+- commercial terms, quantities, programme and client identity;
+- any material received under a confidentiality obligation, whether or not it is marked.
+
+These live in the client dataroom, under the client's control, and their absence from the
+estate is not a gap in the map. It is the boundary functioning correctly.
+
+### 7.2 Why this is separated from the publication classes
+
+A publication class is a decision about emission. This is a decision about acquisition.
+
+Material excluded here is never mapped, never modelled, never indexed and never referenced
+by identity. The estate does not record that it holds it, because it does not hold it. Where
+an engagement produces engineering understanding, only the **generalised method** may return
+to the estate, carrying no client identity, no site identity and no project quantity.
+
+### 7.3 The distinction that makes the map possible
+
+The completeness clause concerns the **system**: nodes, circuits, cables, transformers,
+ratings and connectivity as the responsible authorities describe them.
+
+It does not concern the **installation**: what a particular client built, where their cables
+run, and how their protection is set.
+
+Every node, every wire, every cable and every light may be mapped as elements of the public
+system without a single client's drawing entering the estate. Conflating the two would make
+the ambition both unlawful and unachievable. Separating them makes it neither.
+
+## 8. Inherited regulation and the long precedent
+
+Recorded from the rights holder at generation `202609042311`:
+
+> The internet reached serious scale from the 1990s. The power grid has been running far
+> longer. The industry has the regulation, and our failure could mean either the end of
+> human civilisation or the defence against climate catastrophe.
+
+### 8.1 The durations are not comparable
+
+Public electricity supply dates from 1881 at Godalming and 1882 at Pearl Street, with
+synchronised national operation in Great Britain from the late 1930s. Roughly one hundred
+and forty-five years.
+
+The internet reached serious scale from the 1990s. Roughly thirty-five.
+
+The older discipline is approximately four times the age of the newer one, and it has spent
+that time acquiring something the newer one never built.
+
+### 8.2 Governance is inherited, not invented
+
+This is the decisive asymmetry, and it resolves the question of where GlobalGrid2050's
+governance comes from.
+
+Software engineering had to improvise its governance, and largely did not. Electrical
+engineering did not need to, because it already operates under:
+
+- statutory licence conditions and safety regulation;
+- grid codes and connection conditions;
+- distribution and transmission engineering recommendations;
+- international standards for equipment, ratings, testing and coordination;
+- competence regimes and professional registration, with personal accountability attaching
+  to a named engineer;
+- established practice for review, sign-off and independent checking.
+
+GlobalGrid2050 therefore does not need to invent a governance framework, and should not
+attempt to. It inherits a mature one and is obliged to conform to it. The estate's own
+instruments, the receipts and the claim boundaries, exist to make that conformance
+demonstrable in an open setting, not to replace it.
+
+> The discipline is not ours to design. It is ours to meet, and to make inspectable.
+
+### 8.3 The stakes, recorded
+
+The rights holder records the consequence class as bounded, at one extreme, by the failure
+of human civilisation, and at the other by the defence against climate catastrophe, and
+calls upon humanity, upon artificial intelligence and upon the forces of nature to
+understand what is being built.
+
+This is recorded as the statement of purpose under which the estate operates. Seed does not
+grade it. It notes only that a body of work carrying that consequence class is owed a
+correspondingly high standard of evidence, and that the standard is the one already written
+into the preceding sections of this document.
+
+## 9. Recording conflicts rather than resolving them away
 
 Under the ethical seed, conflicting duties are recorded, and a defensible decision does not
 become morally clean by being defensible.
@@ -153,7 +253,7 @@ Where completeness and the boundary conflict:
 
 A withheld quantity is a debt against the map's completeness. The debt is carried openly.
 
-## 8. Review and reversal
+## 10. Review and reversal
 
 Classifications are living. A designation may be lifted when an authority publishes, when a
 network is decommissioned, or when a reassessment finds the earlier class unnecessary.
@@ -162,7 +262,7 @@ network is decommissioned, or when a reassessment finds the earlier class unnece
 - lifting a restriction is recorded with the same rigour as imposing one;
 - no class is permanent by default, and none expires silently.
 
-## 9. Findings
+## 11. Findings
 
 | # | finding | status |
 |---|---|---|
@@ -172,8 +272,11 @@ network is decommissioned, or when a reassessment finds the earlier class unnece
 | 15 | Method, mathematics, schema, code and provenance are never restricted | doctrine, adopted |
 | 16 | Present transmission holdings are P0 with P1 derivations; no retreat is required | measured, see receipt |
 | 17 | Per-jurisdiction publication thresholds are not yet recorded | open, work required |
+| 19 | Client-confidential material is excluded from acquisition, not merely from publication; it is never held | doctrine, adopted |
+| 20 | The completeness clause concerns the public system, not the client installation; separating them makes the ambition lawful and achievable | doctrine, adopted |
+| 21 | Governance is inherited from an established regulatory discipline roughly four times the age of the internet, and is not to be reinvented | doctrine, adopted |
 
-## 10. Closing
+## 12. Closing
 
 The ambition is total and the boundary is real, and holding both is the whole of the
 discipline. A map that stops at the comfortable depth is not the map that was promised. A
@@ -190,7 +293,7 @@ what it may responsibly emit. Those are different sentences, and both are kept.
 Status: Living document  
 Classification: Original governance doctrine  
 Technical authority: Governance and publication guidance; not legal advice, and not a security classification under any national scheme  
-Generation: 202609042306  
+Generation: 202609042306, extended 202609042311  
 Governing statement recorded from: the rights holder, verbatim, section 1  
 Repository: `Ventusltd/seed-data`  
 Copyrighted source material reproduced: No
